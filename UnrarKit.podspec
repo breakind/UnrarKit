@@ -1,13 +1,13 @@
 Pod::Spec.new do |s|
   s.name             = "UnrarKit"
-  s.version          = ENV["TRAVIS_TAG"]
+  s.version          = "2.11"
   s.summary          = "UnrarKit is here to enable Mac and iOS Cocoa apps to easily work with RAR files for read-only operations"
   s.license          = "BSD"
   s.homepage         = "https://github.com/abbeycode/UnrarKit"
   s.author           = { "Dov Frankel" => "dov@abbey-code.com" }
   # Removed to silence validation warnings until issue is resolved: https://github.com/CocoaPods/CocoaPods/issues/10291
 #   s.social_media_url = "https://twitter.com/dovfrankel"
-  s.source           = { :git => "https://github.com/abbeycode/UnrarKit.git", :tag => "#{s.version}" }
+  s.source           = { :git => "https://github.com/abbeycode/UnrarKit.git", :tag => "2.11" }
   s.ios.deployment_target = "12.0"
   s.osx.deployment_target = "10.13"
   s.requires_arc = "Classes/**/*"
