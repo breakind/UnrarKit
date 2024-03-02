@@ -83,7 +83,7 @@
 #include "volume.hpp"
 #include "smallfn.hpp"
 
-#include "global.hpp"
+#include "unrar_global.hpp"
 
 #if 0
 #include "benchmark.hpp"

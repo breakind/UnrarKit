@@ -84,7 +84,7 @@
 		7AC29AA41F83C36900DA4DE6 /* filestr.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 96853F2B18DB722E00B5651B /* filestr.hpp */; };
 		7AC29AA51F83C36900DA4DE6 /* find.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 96853F2D18DB722E00B5651B /* find.hpp */; };
 		7AC29AA61F83C36900DA4DE6 /* getbits.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 96853F2F18DB722E00B5651B /* getbits.hpp */; };
-		7AC29AA71F83C36900DA4DE6 /* global.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 96853F3118DB722E00B5651B /* global.hpp */; };
+		7AC29AA71F83C36900DA4DE6 /* unrar_global.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 96853F3118DB722E00B5651B /* unrar_global.hpp */; };
 		7AC29AA81F83C36900DA4DE6 /* headers.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 96853F3218DB722E00B5651B /* headers.hpp */; };
 		7AC29AA91F83C36900DA4DE6 /* isnt.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 96853F3418DB722E00B5651B /* isnt.hpp */; };
 		7AC29AAB1F83C36900DA4DE6 /* loclang.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 96853F3818DB722E00B5651B /* loclang.hpp */; };
@@ -274,7 +274,7 @@
 		96853F2E18DB722E00B5651B /* getbits.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = getbits.cpp; sourceTree = "<group>"; };
 		96853F2F18DB722E00B5651B /* getbits.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = getbits.hpp; sourceTree = "<group>"; };
 		96853F3018DB722E00B5651B /* global.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = global.cpp; sourceTree = "<group>"; };
-		96853F3118DB722E00B5651B /* global.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = global.hpp; sourceTree = "<group>"; };
+		96853F3118DB722E00B5651B /* unrar_global.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = unrar_global.hpp; sourceTree = "<group>"; };
 		96853F3218DB722E00B5651B /* headers.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = headers.hpp; sourceTree = "<group>"; };
 		96853F3418DB722E00B5651B /* isnt.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = isnt.hpp; sourceTree = "<group>"; };
 		96853F3818DB722E00B5651B /* loclang.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = loclang.hpp; sourceTree = "<group>"; };
@@ -556,7 +556,7 @@
 				96853F2E18DB722E00B5651B /* getbits.cpp */,
 				96853F2F18DB722E00B5651B /* getbits.hpp */,
 				96853F3018DB722E00B5651B /* global.cpp */,
-				96853F3118DB722E00B5651B /* global.hpp */,
+				96853F3118DB722E00B5651B /* unrar_global.hpp */,
 				96370FC319ED8ACF00DAF8F1 /* hardlinks.cpp */,
 				96370FC419ED8B0400DAF8F1 /* hash.cpp */,
 				96370FC519ED8B0400DAF8F1 /* hash.hpp */,
@@ -692,7 +692,7 @@
 				7AC29AA41F83C36900DA4DE6 /* filestr.hpp in Headers */,
 				7AC29AA51F83C36900DA4DE6 /* find.hpp in Headers */,
 				7AC29AA61F83C36900DA4DE6 /* getbits.hpp in Headers */,
-				7AC29AA71F83C36900DA4DE6 /* global.hpp in Headers */,
+				7AC29AA71F83C36900DA4DE6 /* unrar_global.hpp in Headers */,
 				7AC29AA81F83C36900DA4DE6 /* headers.hpp in Headers */,
 				7AC29AA91F83C36900DA4DE6 /* isnt.hpp in Headers */,
 				7AC29AAB1F83C36900DA4DE6 /* loclang.hpp in Headers */,
